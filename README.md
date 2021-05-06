@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">
-  Frontend/Backend developer. Available for project-based freelance work. Codersrank TOP 583 worldwide.
+  Frontend/Backend developer. Available for project-based freelance work. Codersrank TOP 600 worldwide.
 </h3>
 <h4>
   Upwork: <a href="https://www.upwork.com/freelancers/~01c083e89566e95e05">Upwork profile link</a>
